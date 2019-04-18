@@ -1,0 +1,12 @@
+    #test{
+        background-color: black;
+        width: 100px;
+        height: 100px;
+    } 
+    .aa{
+        background-image: url('./img/aaa.jpg');
+        width: 100px;
+        height: 100px;
+        transform: translate(50px, 50px);
+    }
+    @import './a.scss'
